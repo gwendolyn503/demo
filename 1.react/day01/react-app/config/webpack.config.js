@@ -49,7 +49,7 @@ const cssRegex = /\.css$/;
 const cssModuleRegex = /\.module\.css$/;
 const sassRegex = /\.(scss|sass)$/;
 const sassModuleRegex = /\.module\.(scss|sass)$/;
-const stylusRegex = /\.stylus$/;
+const stylusRegex = /\.styl$/;
 const stylusModuleRegex = /\.module\.stylus$/;
 
 // This is the production and development configuration.
